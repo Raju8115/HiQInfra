@@ -66,7 +66,7 @@ const ContactSection = () => {
               Margondanahalli, <br />
               Mukthinaga Temple Road,<br />
               Kengeri Hobli, <br />
-              Bengaluru-5600474
+              Bengaluru-560074
             </p>
           </div>
 
@@ -82,7 +82,7 @@ const ContactSection = () => {
               Margondanahalli, <br />
               Mukthinaga Temple Road,<br />
               Kengeri Hobli, <br />
-              Bengaluru-5600474
+              Bengaluru-560074
             </p>
           </div>
 
