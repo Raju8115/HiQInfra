@@ -26,7 +26,7 @@ const About = () => {
 
   return (
     <div
-      className="bg-[#9e2a29] text-white min-h-[70vh] flex items-center justify-center md:px-12 px-4 py-16"
+      className="bg-[#5f5e67] text-white min-h-[70vh] flex items-center justify-center md:px-12 px-4 py-16"
       id="about"
     >
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:max-w-7xl w-full items-center sm:max-w-lg">

@@ -25,7 +25,7 @@ const ContactSection = () => {
   const [phoneRef, phoneVisible] = useInView();
 
   return (
-    <div className="bg-[#9e2a29] text-white px-6 py-16" id="contact">
+    <div className="bg-[#5f5e67] text-white px-6 py-16" id="contact">
       <div className="max-w-screen-xl mx-auto flex flex-col items-center gap-10">
 
         {/* Centered Title */}
@@ -79,10 +79,10 @@ const ContactSection = () => {
           >
             <h3 className="font-bold mb-2 font-[Open_Sans] sm:text-md lg:text-xl xl:text-2xl">PLANT ADDRESS</h3>
             <p className="font-[Open_Sans] sm:text-sm lg:text-lg xl:text-xl">
-              Sy No 42/4,<br />
-              Kanaminike Village,<br />
-              Kengeri Hobli<br />
-              Bengaluru-560074
+              Margondanahalli, <br />
+              Mukthinaga Temple Road,<br />
+              Kengeri Hobli, <br />
+              Bengaluru-5600474
             </p>
           </div>
 
