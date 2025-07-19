@@ -52,7 +52,7 @@ const About_3 = () => {
             When choosing a ready-mix concrete company, it is important to weigh all of the factors involved. However, the quality of the concrete should be your top priority.
           </p>
           <p className="text-[#d6d3d4] font-light text-base lg:text-lg xl:text-xl sm:text-lg">
-            By choosing a <strong>HIQU</strong> ready-mix concrete company, you can be confident that you are getting the best possible product for your project.
+            By choosing a <strong>SMM</strong> ready-mix concrete company, you can be confident that you are getting the best possible product for your project.
           </p>
         </div>
 

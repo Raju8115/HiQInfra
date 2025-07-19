@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from "react";
-import logo from "../assets/image-4.png";
-import truck from "../assets/image-5.png";
+import logo from "../assets/logo.png";
+import truck from "../assets/truck.png";
 
 const useInView = (threshold = 0.1) => {
   const ref = useRef();
@@ -29,20 +29,20 @@ const Home = () => {
       className="flex flex-col lg:flex-row items-center justify-between bg-white w-full xl:p-12 lg:p-4 mt-12 xl:pl-[120px]"
       id="home"
     >
-      <div className="flex flex-col xl:gap-10 gap-8 lg:w-2/5 lg:px-10 xl:pl-12">
+      <div className="flex flex-col xl:gap-10 gap-8 lg:w-2/5 lg:px-10 xl:pl-12 pt-12">
         {/* Logo + Text */}
         <div
           ref={logoRef}
-          className={`flex items-end transform transition-all duration-700 ease-out ${
+          className={`flex items-end transform transition-all duration-700 ease-out items-center ${
             logoVisible ? "translate-y-0 opacity-100" : "translate-y-12 opacity-0"
           }`}
         >
           <img
             src={logo}
             alt="logo"
-            className="h-10 w-10 mr-2 object-contain"
+            className="h-18 w-16 mr-2 object-contain"
           />
-          <span className="text-gray-800 text-3xl font-light">HiQu Infra</span>
+          <span className="text-gray-800 text-3xl font-[Bitter]">SMM Concrete</span>
         </div>
 
         {/* Heading */}

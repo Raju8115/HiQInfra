@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import bridgeImg from "../assets/image-7.jpg";
+import bridgeImg from "../assets/image-7.png";
 import batchingImg from "../assets/image-8.jpg";
 import serviceImg from "../assets/image-3.jpg";
 

@@ -44,7 +44,7 @@ const About_4 = () => {
               para1Visible ? "translate-x-0 opacity-100" : "-translate-x-10 opacity-0"
             }`}
           >
-            At HIQU, we understand that construction projects can be complex and challenging. That's why we work closely with our customers to understand their needs and ensure that they get the right concrete products and services for their project.
+            At SMM concrete, we understand that construction projects can be complex and challenging. That's why we work closely with our customers to understand their needs and ensure that they get the right concrete products and services for their project.
           </p>
 
           <p
